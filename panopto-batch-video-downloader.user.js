@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         panopto-batch-downloader
-// @description	 This is a script that downloads all videos in a folder in Panopto Video platform
+// @name         panopto-batch-video-downloader
+// @description	 Video downloader off all videos in a folder in Panopto Video platform
 // @namespace    https://github.com/majar-util/panopto-batch-video-downloader
 // @version      0.1.0
 // @author       majar5c
