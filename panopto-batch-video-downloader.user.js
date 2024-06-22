@@ -5,7 +5,7 @@
 // @version      0.1.0
 // @author       majar5c
 // @match        https://*.panopto.com/Panopto/Pages/Sessions/*
-// @icon         https://github.com/majar-util/panopto-batch-video-downloader/blob/d5986221f4045a04025e782f4d665a6486c198cb/favicon.png
+// @icon         https://github.com/majar-util/panopto-batch-video-downloader/blob/d5986221f4045a04025e782f4d665a6486c198cb/favicon.png?raw=true
 // @license      MIT
 // @grant        GM_openInTab
 // ==/UserScript==
